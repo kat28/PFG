@@ -1,0 +1,45 @@
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.deps.json
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.pdb
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.csproj.CoreCompileInputs.cache
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.AssemblyInfoInputs.cache
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.AssemblyInfo.cs
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.pdb
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.csprojAssemblyReference.cache
+E:\kategodinezd\Documents\BackUpVS17-PFG\11-03-19\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.deps.json
+E:\kategodinezd\Documents\BackUpVS17-PFG\11-03-19\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.dll
+E:\kategodinezd\Documents\BackUpVS17-PFG\11-03-19\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.pdb
+E:\kategodinezd\Documents\BackUpVS17-PFG\11-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.csprojAssemblyReference.cache
+E:\kategodinezd\Documents\BackUpVS17-PFG\11-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.csproj.CoreCompileInputs.cache
+E:\kategodinezd\Documents\BackUpVS17-PFG\11-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.AssemblyInfoInputs.cache
+E:\kategodinezd\Documents\BackUpVS17-PFG\11-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.AssemblyInfo.cs
+E:\kategodinezd\Documents\BackUpVS17-PFG\11-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.dll
+E:\kategodinezd\Documents\BackUpVS17-PFG\11-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.pdb
+E:\kategodinezd\Documents\BackUpVS17-PFG\12-03-19\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.deps.json
+E:\kategodinezd\Documents\BackUpVS17-PFG\12-03-19\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.dll
+E:\kategodinezd\Documents\BackUpVS17-PFG\12-03-19\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.pdb
+E:\kategodinezd\Documents\BackUpVS17-PFG\12-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.csprojAssemblyReference.cache
+E:\kategodinezd\Documents\BackUpVS17-PFG\12-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.csproj.CoreCompileInputs.cache
+E:\kategodinezd\Documents\BackUpVS17-PFG\12-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.AssemblyInfoInputs.cache
+E:\kategodinezd\Documents\BackUpVS17-PFG\12-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.AssemblyInfo.cs
+E:\kategodinezd\Documents\BackUpVS17-PFG\12-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.dll
+E:\kategodinezd\Documents\BackUpVS17-PFG\12-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.pdb
+E:\kategodinezd\Documents\BackUpVS17-PFG\29-03-19\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.deps.json
+E:\kategodinezd\Documents\BackUpVS17-PFG\29-03-19\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.dll
+E:\kategodinezd\Documents\BackUpVS17-PFG\29-03-19\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.pdb
+E:\kategodinezd\Documents\BackUpVS17-PFG\29-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.csprojAssemblyReference.cache
+E:\kategodinezd\Documents\BackUpVS17-PFG\29-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.csproj.CoreCompileInputs.cache
+E:\kategodinezd\Documents\BackUpVS17-PFG\29-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.AssemblyInfoInputs.cache
+E:\kategodinezd\Documents\BackUpVS17-PFG\29-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.AssemblyInfo.cs
+E:\kategodinezd\Documents\BackUpVS17-PFG\29-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.dll
+E:\kategodinezd\Documents\BackUpVS17-PFG\29-03-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.pdb
+E:\kategodinezd\Documents\BackUpVS17-PFG\23-04-19\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.deps.json
+E:\kategodinezd\Documents\BackUpVS17-PFG\23-04-19\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.dll
+E:\kategodinezd\Documents\BackUpVS17-PFG\23-04-19\Proto\PFG\CapaConexion\bin\Debug\netstandard2.0\CapaConexion.pdb
+E:\kategodinezd\Documents\BackUpVS17-PFG\23-04-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.csprojAssemblyReference.cache
+E:\kategodinezd\Documents\BackUpVS17-PFG\23-04-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.csproj.CoreCompileInputs.cache
+E:\kategodinezd\Documents\BackUpVS17-PFG\23-04-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.AssemblyInfoInputs.cache
+E:\kategodinezd\Documents\BackUpVS17-PFG\23-04-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.AssemblyInfo.cs
+E:\kategodinezd\Documents\BackUpVS17-PFG\23-04-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.dll
+E:\kategodinezd\Documents\BackUpVS17-PFG\23-04-19\Proto\PFG\CapaConexion\obj\Debug\netstandard2.0\CapaConexion.pdb

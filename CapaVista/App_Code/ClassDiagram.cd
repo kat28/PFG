@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CapaNegocio.CitaN">
+    <Position X="6.75" Y="5.5" Width="2" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="disposed" Hidden="true" />
+      <Method Name="Disposed" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaNegocio.ConvenioN">
+    <Position X="9.25" Y="4.75" Width="1.75" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="disposed" Hidden="true" />
+      <Method Name="Disposed" Hidden="true" />
+      <Method Name="NuevoConvenioDS" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaNegocio.EmpleadoN">
+    <Position X="4" Y="3" Width="2.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="disposed" Hidden="true" />
+      <Method Name="Disposed" Hidden="true" />
+      <Method Name="nuevoEmpleadoDS" Hidden="true" />
+      <Method Name="ObtenerMod_Empleado_ID" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaNegocio.FacturaN">
+    <Position X="4" Y="0.5" Width="2.25" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="disposed" Hidden="true" />
+      <Method Name="Disposed" Hidden="true" />
+      <Method Name="NuevoModoPagoDS" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaNegocio.InventarioN">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="disposed" Hidden="true" />
+      <Method Name="Disposed" Hidden="true" />
+      <Method Name="NuevoInventarioDS" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaNegocio.LocalizacionN">
+    <Position X="4" Y="5.75" Width="2" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="disposed" Hidden="true" />
+      <Method Name="Disposed" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaNegocio.LoginNeg">
+    <Position X="0.5" Y="5.75" Width="2.25" />
+    <Members>
+      <Method Name="AgregarCredenciales" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="disposed" Hidden="true" />
+      <Method Name="Disposed" Hidden="true" />
+      <Method Name="LoginNeg" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaNegocio.PacienteN">
+    <Position X="7.25" Y="0.5" Width="2.25" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="disposed" Hidden="true" />
+      <Method Name="Disposed" Hidden="true" />
+      <Method Name="NuevoAntecedentesDS" Hidden="true" />
+      <Method Name="NuevoModificarHistoriaClinicaDS" Hidden="true" />
+      <Method Name="NuevoSignosVitalesDS" Hidden="true" />
+      <Method Name="Obtener_AntecedentesPersonales_ID" Hidden="true" />
+      <Method Name="Obtener_DetalleClinico_ID" Hidden="true" />
+      <Method Name="Obtener_HistoriaClinica_ID" Hidden="true" />
+      <Method Name="Obtener_Paciente_Mod" Hidden="true" />
+      <Method Name="obtenerPacienteC" Hidden="true" />
+      <Method Name="obtenerPacienteG" Hidden="true" />
+      <Method Name="obtenerPacienteR" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CapaNegocio.PlanillaN">
+    <Position X="0.5" Y="3" Width="2.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="disposed" Hidden="true" />
+      <Method Name="Disposed" Hidden="true" />
+      <Method Name="ModificarConvenio" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

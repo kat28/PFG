@@ -1,0 +1,116 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPagePrincipal.master.cs" Inherits="MasterPagePrincipal" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Proyecto Graduación</title>
+
+    <%-- CSS --%>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Work+Sans">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="css/modal.css" rel="stylesheet" />
+    <link href="fonts/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+
+    <%-- CSS --%>
+    <style>
+        body, h1, h2, h3, h4, h5, h6 {
+            font-family: 'Bree Serif', serif;
+        }
+    </style>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <link href="fonts/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+        <style>
+            body, h1, h2, h3, h4, h5, h6 {
+                font-family: 'Bree Serif', serif;
+            }
+        </style>
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <!-- NAV -->
+    <nav class="navbar navbar-expand-lg navbar-dark probootstrap-navbar-dark">
+        <!-- Imagen -->
+        <a class="navbar-brand" href="Inicio.aspx">
+            <img src="images/icons/computer.png" width="50" height="50"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#probootstrap-nav" aria-controls="probootstrap-nav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="probootstrap-nav">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active"><a id="txtPaciente" runat="server" href="Pacientes.aspx" class="nav-link pl-0">Pacientes</a></li>
+                <li class="nav-item active"><a id="txtExpediente" runat="server" href="ExpedienteClinico.aspx" class="nav-link pl-0">Expediente Clínico</a></li>
+                <li class="nav-item active"><a id="txtCitas" runat="server" href="Citas.aspx" class="nav-link pl-0">Citas</a></li>
+                <li class="nav-item active"><a id="txtConvenio" runat="server" href="convenios.aspx" class="nav-link pl-0">Convenios</a></li>
+                <li class="nav-item active"><a id="txtFactura" runat="server" href="Factura.aspx" class="nav-link pl-0">Facturación</a></li>
+                <li class="nav-item active"><a id="txtPlanilla" runat="server" href="GenerarPlanilla.aspx" class="nav-link pl-0">Planilla</a></li>
+                <li class="nav-item active"><a id="txtInventario" runat="server" href="Inventario.aspx" class="nav-link pl-0">Inventario</a></li>
+                <li class="nav-item active"><a id="txtEmpleado" runat="server" href="Empleado.aspx" class="nav-link pl-0">Seguridad</a></li>
+                <li class="nav-item active"><a id="txtReportes" runat="server" href="ReportesPrincipal.aspx" class="nav-link pl-0">Reportes</a></li>
+                <%--<li class="nav-item active"><a href="index.html" class="nav-link pl-0">Consultas</a></li>--%>
+            </ul>
+            <a href="LogOut.aspx" class="btn btn-outline-light"><span class="glyphicon glyphicon-log-out"></span>Cerrar Sesión</a>
+        </div>
+        <%--</div>--%>
+    </nav>
+    <!-- END NAV -->
+
+    <%-- HEADER --%>
+    <header role="banner" class="py-1"></header>
+    <%-- END HEADER --%>
+
+    <%-- CONTENT --%>
+    <form id="form1" runat="server">
+        <%--class="probootstrap-appointment mx-4 pl-4"--%>
+        <div runat="server">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <%-- END CONTENT --%>
+
+    <%-- FOOTER --%>
+    <footer class="probootstrap-footer">
+        <div class="container">
+            
+                <div class="col-md-6">
+                    <h3 class="heading">PROTOTIPO FUNCIONAL PARA EL CONTROL DE PAGOS AL PERSONAL DE SOLUCIONES MÉDICAS AMBULATORIAS (SOLUMED) EN SEDE BARRIO LA CALIFORNIA</h3>
+                    <p class="heading" runat="server" id="txtUser"></p>
+                    <p class="heading" runat="server" id="txtRol"></p>
+                </div>
+           
+        </div>
+    </footer>
+    <%-- END FOOTER --%>
+    <!-- loader -->
+    <%--<div id="probootstrap-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#32609e"/></svg></div>
+  --%>
+
+    <%-- SCRIPT --%>
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.animateNumber.min.js"></script>
+    <script src="bootstrap/bootstrap-validate-1.0.11/dist/bootstrap-validate.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+</html>
